@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// 3D Cam Movement
+
 public class CamControl : MonoBehaviour 
 {
 	public float Speed;
